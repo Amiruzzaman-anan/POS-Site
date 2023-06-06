@@ -1,0 +1,5 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^noorwaresmarket\.tk$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.noorwaresmarket\.tk$
+RewriteRule ^/?$ "https\:\/\/noorwaresmarket\.tk\/" [R=301,L]

@@ -1,3 +1,0 @@
-okhtmlgetcontentUser-agent: *
-Allow: /
-Sitemap:https://noorwaresmarket.com/sitemap.xml

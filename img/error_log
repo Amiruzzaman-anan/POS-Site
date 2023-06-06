@@ -1,8 +1,0 @@
-[12-Jul-2022 05:35:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/aurexaac/noorwaresmarket.com/img/img.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/aurexaac/noorwaresmarket.com/img/img.php on line 2
-[12-Jul-2022 05:35:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function create_function() in /home/aurexaac/noorwaresmarket.com/img/img.php:2
-Stack trace:
-#0 {main}
-  thrown in /home/aurexaac/noorwaresmarket.com/img/img.php on line 2
